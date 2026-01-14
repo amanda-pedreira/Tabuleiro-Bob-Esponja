@@ -1,4 +1,4 @@
-# 🧽 Jogo de Tabuleiro — Bob Esponja (Java)
+# Jogo de Tabuleiro — Bob Esponja (Java)
 
 Projeto acadêmico desenvolvido para a disciplina de **Algoritmo e Programação**, com o objetivo de aplicar, na prática, os principais fundamentos da linguagem **Java**, utilizando um jogo de tabuleiro inspirado no universo do **Bob Esponja**.
 
