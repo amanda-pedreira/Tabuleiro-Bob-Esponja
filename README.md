@@ -13,3 +13,15 @@ O jogo utiliza uma matriz 8x8, onde dois jogadores (Bob Esponja e Plâncton) com
 
 ## Execução
 Compile e execute o arquivo principal (`Main.java`) em um ambiente Java.
+
+---
+
+## Demonstração
+
+**Início do jogo:**
+
+![Início](./assets/img-um.png)
+
+**Tabuleiro durante a partida:**
+
+![Durante o jogo](./assets/img-dois.png)
