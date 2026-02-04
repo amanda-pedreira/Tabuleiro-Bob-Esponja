@@ -20,8 +20,8 @@ Compile e execute o arquivo principal (`Main.java`) em um ambiente Java.
 
 **Início do jogo:**
 
-![Início](./assets/img-um.png)
+![Início](./assets/img-um.jpg)
 
 **Tabuleiro durante a partida:**
 
-![Durante o jogo](./assets/img-dois.png)
+![Durante o jogo](./assets/img-dois.jpg)
